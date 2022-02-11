@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAE4EMO5hgw/view)](https://github.com/Vishal-05-Hub)
 <h1 align="center">Hi 👋, I'm Vishal Chaudhary</h1>
 <h3 align="center">A passionate java programmer trying to figure out various stuffs!!</h3>
 
@@ -11,8 +10,6 @@
 - 💬 Ask me about **Java, React, Spring, Spring Boot, MySql**
 
 - 📫 How to reach me **vishalchaudhary42929@gmail.com**
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
