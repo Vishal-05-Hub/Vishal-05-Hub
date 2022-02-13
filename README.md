@@ -2,7 +2,7 @@
 <h3 align="center">A passionate java programmer trying to figure out various stuffs!!</h3>
 <hr/>
 
-- 🔭 I’m currently working on **GRADZONE PROJECT**
+- 🔭 I’m currently working on **Exploring More React Projects.**
 
 - 🌱 I’m currently learning **Core Java**
 
